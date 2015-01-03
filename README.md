@@ -1,6 +1,6 @@
 #  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
 
-> [Selection sort](http://en.wikipedia.org/wiki/Selection_sort) with O(n^2) time complexity
+> [Selection sort](http://en.wikipedia.org/wiki/Selection_sort) with O(n^2) time complexity based on [javascript-algorithms](https://github.com/mgechev/javascript-algorithms "Javascript Algorithms").
 
 
 ## Install
@@ -25,7 +25,7 @@ selectionsort([5, 1, 12, -5, 16, 2, 12, 14]);
 
 ## License
 
-MIT © [Addy Osmani](addyosmani.com)
+MIT © [Addy Osmani](http://addyosmani.com)
 
 
 [npm-url]: https://npmjs.org/package/selectionsort
