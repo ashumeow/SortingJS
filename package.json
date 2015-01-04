@@ -1,36 +1,23 @@
 {
-  "name": "selectionsort",
-  "version": "1.0.1",
-  "description": "Selection sort with O(n^2) time complexity",
-  "homepage": "http://addyosmani.com",
+  "name": "SortingJS",
+  "version": "1.0.0",
+  "description": "SortingJS with O(n^2) time complexity",
+  "homepage": "http://www.windowsgeekpro.in",
   "author": {
-    "name": "Addy Osmani",
-    "email": "addyosmani@gmail.com",
-    "url": "addyosmani.com"
+    "name": "Aswini S (ashumeow)",
+    "email": "geekymeow@gmail.com",
+    "url": "https://twitter.com/ashumeow"
   },
-  "repository": "addyosmani/selectionsort",
+  "repository": "ashumeow/SortingJS",
   "license": "MIT",
   "files": [
-    "index.js"
+    "SortingJS.js"
   ],
   "keywords": [
-    "selectionsort",
-    "selection sort",
-    "sort",
-    "comparison"
-  ],
-  "dependencies": {},
-  "devDependencies": {
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-nodeunit": "^0.4.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "load-grunt-tasks": "^1.0.0",
-    "time-grunt": "^1.0.0",
-    "grunt-mocha-cli": "^1.11.0",
-    "jshint-stylish": "^1.0.0"
-  },
-  "scripts": {
-    "test": "grunt"
-  }
+    "SelectionSort",
+    "BubbleSort",
+    "InsertionSort",
+    "MergeSort",
+    "HeapSort"
+  ]
 }
