@@ -1,3 +1,7 @@
+# [![Build Status][travis-image]][travis-url]
+[travis-url]: https://travis-ci.org/ashumeow/SortingJS
+[travis-image]: https://travis-ci.org/ashumeow/SortingJS.svg?branch=master
+
 > <b>SortingJS</b> is based on Addy Osmani's works <a href="https://github.com/addyosmani/selectionsort">[1]</a>, <a href="https://github.com/addyosmani/bubblesort">[2]</a>
 
 ## Install
