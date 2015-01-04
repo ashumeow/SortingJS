@@ -1,15 +1,10 @@
+function SelectionSort() {
 'use strict';
 
 function compare(a, b) {
   return a - b;
 }
 
-/**
- * Selection sort with O(n^2) time complexity
- * @param  {Array} array      to be sorted
- * @param  {Function} compareFunction Compare function
- * @return {Array}            sorted array
- */
 module.exports = function (array, compareFunction) {
 
   var min = 0;
@@ -36,3 +31,4 @@ module.exports = function (array, compareFunction) {
 
   return array;
 };
+}
